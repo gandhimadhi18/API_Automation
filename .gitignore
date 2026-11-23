@@ -1,0 +1,22 @@
+# Maven build files
+target/
+
+# Test reports
+test-output/
+surefire-reports/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
